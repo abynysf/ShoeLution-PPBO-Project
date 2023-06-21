@@ -2,7 +2,7 @@
 
 Tugas Project Akhir Praktikum Pemrograman Berorientasi Objek
 
-Anggota Kelompok :
+Anggota Kelompok 6 :
 
 1. Ghita Najmi Naqasy (22/496466/SV/20961)
 
